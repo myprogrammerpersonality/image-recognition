@@ -6,3 +6,5 @@ In each folder should be a file called label.csv that has two column:
 1-image path 2-image label
 
 image name doesn't matter!
+
+Binary Classification uses BinaryLoss
