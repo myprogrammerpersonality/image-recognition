@@ -1,2 +1,2 @@
 # image-recognition
-My personal repo for templates for image recognition with PyTorch
+My personal repo for templates of image recognition with PyTorch
