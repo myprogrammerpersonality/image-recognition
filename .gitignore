@@ -4,6 +4,9 @@
 *.png
 # ignore csv
 *.csv
+# ignore models
+*.pth
+*.pt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
