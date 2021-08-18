@@ -1,2 +1,9 @@
 # Mutli Class Classification CNN
-Use CrossEntropyLoss
+Images should be placed in seprate folder based on train/val/test. 
+
+In each folder should be a file called label.csv that has two column:
+1-image path 2-image label
+
+image name doesn't matter!
+
+Mutli Class Classification Use CrossEntropyLoss.
