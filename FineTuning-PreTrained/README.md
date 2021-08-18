@@ -5,4 +5,11 @@ This folder uses pre-trained models of the TorchVision package to accelerate tra
 It replaces the last layer of the model (classifier layer) to adjust it to our problem number of classes.
 
 ## input data requirements:
-Your image should be placed in separate folders based on the train/val/test set. In each folder, you need to have a `label.csv` file that has two-column, the first, Path, includes the path to images, and the second column contains the labels. 
+Images should be placed in seprate folder based on train/val/test. 
+
+In each folder should be a file called label.csv that has two column:
+1-image path 2-image label
+
+image name doesn't matter!
+
+Binary Classification uses CrossEntropyLoss.
