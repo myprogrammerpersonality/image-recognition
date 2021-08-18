@@ -1,5 +1,5 @@
 # Image Recognition
-My try to make a set of templates for diffrent task in field of image recognition and computer vision using TorchVision package.
+Here I tried to make a set of templates for diffrent task in field of image recognition and computer vision using TorchVision package.
 
 ## Tasks
 1. Binary Classification (CNN from scratch, Sigmoid Activiation, BinaryCrossEntropyLoss)
