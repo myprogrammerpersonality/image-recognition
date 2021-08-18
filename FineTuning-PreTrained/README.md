@@ -12,4 +12,4 @@ In each folder should be a file called label.csv that has two column:
 
 image name doesn't matter!
 
-Binary Classification uses CrossEntropyLoss.
+MultiClass Classification uses CrossEntropyLoss.
