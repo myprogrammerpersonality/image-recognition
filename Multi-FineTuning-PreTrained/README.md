@@ -13,3 +13,5 @@ In each folder should be a file called label.csv that has two column:
 image name doesn't matter!
 
 MultiClass Classification uses CrossEntropyLoss.
+
+References: [Pytorch Transfer Learning](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
