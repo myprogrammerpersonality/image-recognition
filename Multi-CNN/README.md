@@ -7,3 +7,5 @@ In each folder should be a file called label.csv that has two column:
 image name doesn't matter!
 
 Mutli Class Classification Use CrossEntropyLoss.
+
+References: [Pytorch Tutorials](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
