@@ -14,4 +14,6 @@ image name doesn't matter!
 
 MultiClass Classification uses CrossEntropyLoss.
 
-References: [Pytorch Transfer Learning](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+References: 
+- [Pytorch Transfer Learning](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
+- [Pytorch Transfer Learning 2](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
