@@ -8,3 +8,5 @@ In each folder should be a file called label.csv that has two column:
 image name doesn't matter!
 
 Binary Classification uses BinaryLoss
+
+References: [Pytorch Tutorials](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
